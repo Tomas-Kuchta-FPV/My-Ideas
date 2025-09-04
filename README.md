@@ -3,13 +3,13 @@ Here I curate my ideas I want to share with the world.
 They are mostly bad but you can sometimes find great ideas here. Alteast I hope.  
 
 ## Ideas
-| **The Idea**           | State                                                      | Am I going to make it happen? | Notes                                                                       | Link                                      |
-| ---------------------- | ---------------------------------------------------------- | ----------------------------- | --------------------------------------------------------------------------- | ----------------------------------------- |
-| Ridable robot platform | I have the RC platform. And going to take a break from it. | Its already happening!        | It's going to be a ridable platform with hoverboard wheels.                 |                                           |
-| ARDF set from ESP32    | Initial idea                                               | Probably not                  | Can use the ESP32C6 for AM brodcast on 2.4Ghz and make my own PCB antennas. | https://gitlab.com/ignne/esp-erimentation |
-|                        |                                                            |                               |                                                                             |                                           |
-|                        |                                                            |                               |                                                                             |                                           |
-|                        |                                                            |                               |                                                                             |                                           |
+| **The Idea**                   | State                                                      | Am I going to make it happen?              | Notes                                                                       | Link                                      |
+| ------------------------------ | ---------------------------------------------------------- | ------------------------------------------ | --------------------------------------------------------------------------- | ----------------------------------------- |
+| Ridable robot platform         | I have the RC platform. And going to take a break from it. | Its already happening!                     | It's going to be a ridable platform with hoverboard wheels.                 |                                           |
+| ARDF set from ESP32            | Initial idea                                               | Probably not                               | Can use the ESP32C6 for AM brodcast on 2.4Ghz and make my own PCB antennas. | https://gitlab.com/ignne/esp-erimentation |
+| Spectrum analyzer from ESP32C6 | Initial idea                                               | Higly likely - Love the idea of a cheap SA | I will use the work done in *esp-erimentation* and make a SA from it.       | https://gitlab.com/ignne/esp-erimentation |
+|                                |                                                            |                                            |                                                                             |                                           |
+|                                |                                                            |                                            |                                                                             |                                           |
 
 
 
